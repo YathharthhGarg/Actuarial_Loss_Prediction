@@ -1,5 +1,5 @@
 # Actuarial Loss Prediction – [Python]
-[Python Code] (https://github.com/YathharthhGarg/Actuarial_Loss_Prediction/blob/main/Actlpred.ipynb)
+[Python Code](https://github.com/YathharthhGarg/Actuarial_Loss_Prediction/blob/main/Actlpred.ipynb)
 
 We were given 2 datasets as part of the project
 [Training Dataset]( https://github.com/YathharthhGarg/Actuarial_Loss_Prediction/blob/main/train.csv) and [Testing Dataset]( https://github.com/YathharthhGarg/Actuarial_Loss_Prediction/blob/main/test.csv)
