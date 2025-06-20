@@ -23,7 +23,7 @@ In this part of our python code we extracted data which was useful and removed t
 
 ## PART 3
 In this part of our python code we performed a special type of string extraction. From the Column ‘Claim description’, we extracted the body part injured. In this way we can get a simple useful feature for our target rather than a column filled with text. 
-After extraction we dropped Claim Description.
+After extraction we dropped Claim Description and other unnecassary columns or features.
 
 ---
 ## PART 4
