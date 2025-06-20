@@ -23,13 +23,13 @@ In this part of our python code we extracted data which was useful and removed t
 
 ## PART 3
 In this part of our python code we performed a special type of string extraction. From the Column ‘Claim description’, we extracted the body part injured. In this way we can get a simple useful feature for our target rather than a column filled with text. 
-After extraction we dropped Claim Description and other unnecassary columns or features.
 
 ---
 ## PART 4
 In this part of our python code we either hot-one encoded or label encoded our categorical variables.
 -	For simple features like Gender and Marital status, we used hot-one encoding
 -	For complex features like Body parts we used Label encoding
+-	Dropped any unnecassary columns/features
 
 ## PART 5
 In this final part of our python code we first trained our model. Then by fitting the trained model on our testing set we got our predictions for ‘Ultimate Claim cost Incurred’ which was our target variable.
